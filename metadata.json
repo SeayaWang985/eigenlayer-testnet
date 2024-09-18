@@ -2,6 +2,6 @@
   "name": "wfang operator",
   "website": "https://www.cobo.com/",
   "description": "For Test",
-  "logo": "https://file-examples.com/storage/feaf6fc38466e98369950a4/2017/10/file_example_PNG_500kB.png",
+  "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png",
   "twitter": "https://x.com/example"
 }
